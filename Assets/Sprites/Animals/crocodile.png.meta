@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 68435d551d135384da527adbb60e7a7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6507982653818034734
+    second: crocodile_0
+  - first:
+      213: -3968108300564608215
+    second: crocodile_1
+  - first:
+      213: 6308515445154454694
+    second: crocodile_2
+  - first:
+      213: -2022374401968079480
+    second: crocodile_0
+  - first:
+      213: -2211592784717976667
+    second: crocodile_1
+  - first:
+      213: 2269704738568088794
+    second: crocodile_2
+  - first:
+      213: -878500182477312763
+    second: crocodile_3
+  - first:
+      213: -1601080165055877550
+    second: crocodile_4
+  - first:
+      213: -374650946301333048
+    second: crocodile_5
+  - first:
+      213: -528228285939155096
+    second: crocodile_6
+  - first:
+      213: -4143683523908120202
+    second: crocodile_7
+  - first:
+      213: 2948668855799739133
+    second: crocodile_8
+  - first:
+      213: 4774268982542520589
+    second: crocodile_9
+  - first:
+      213: -4919498880582090805
+    second: crocodile_10
+  - first:
+      213: 5920463256677003502
+    second: crocodile_11
+  - first:
+      213: 251216988910327745
+    second: crocodile_12
+  - first:
+      213: -6447897464345753579
+    second: crocodile_13
+  - first:
+      213: -7063660497897177731
+    second: crocodile_14
+  - first:
+      213: -1361778074751065925
+    second: crocodile_15
+  - first:
+      213: 311257119496577763
+    second: crocodile_16
+  - first:
+      213: 3976756539681614849
+    second: crocodile_17
+  - first:
+      213: 6026851635809515093
+    second: crocodile_18
+  - first:
+      213: -4378668053043632468
+    second: crocodile_19
+  - first:
+      213: -8262218479420088840
+    second: crocodile_20
+  - first:
+      213: 291015977037705327
+    second: crocodile_21
+  - first:
+      213: -8293385368633542036
+    second: crocodile_22
+  - first:
+      213: 7771565378197788231
+    second: crocodile_23
+  - first:
+      213: 3258202711297413763
+    second: crocodile_24
+  - first:
+      213: 6874319752624911921
+    second: crocodile_25
+  - first:
+      213: 8744938314686233862
+    second: crocodile_26
+  - first:
+      213: 7165954815494510589
+    second: crocodile_27
+  - first:
+      213: -4265630482874176201
+    second: crocodile_28
+  - first:
+      213: 3943100392093300308
+    second: crocodile_29
+  - first:
+      213: 6339393841565132254
+    second: crocodile_30
+  - first:
+      213: 5363443185158388052
+    second: crocodile_31
+  - first:
+      213: 4099392956221764139
+    second: crocodile_32
+  - first:
+      213: 3501506189824102624
+    second: crocodile_33
+  - first:
+      213: -5680143530923585210
+    second: crocodile_34
+  - first:
+      213: -8968960958065654112
+    second: crocodile_35
+  - first:
+      213: 4630313570542713785
+    second: crocodile_36
+  - first:
+      213: 8322090729138528506
+    second: crocodile_37
+  - first:
+      213: -1047517043795172127
+    second: crocodile_38
+  - first:
+      213: -5679710717012916346
+    second: crocodile_39
+  - first:
+      213: -1407256361495108607
+    second: crocodile_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crocodile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 472
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d79d742351fe3e0800000000000000
+      internalID: -2022374401968079480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 106
+        width: 471
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab611f6418de41e0800000000000000
+      internalID: -2211592784717976667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 473
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc2f5f2f6c9f7f10800000000000000
+      internalID: 2269704738568088794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 5
+        width: 471
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50de2501db0fec3f0800000000000000
+      internalID: -878500182477312763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
